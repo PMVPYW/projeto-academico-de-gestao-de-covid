@@ -1,0 +1,349 @@
+# depslib dependency file v1.0
+1640619786 source:d:\onedrive - ipleiria\prog1\projeto_prog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1639390356 d:\onedrive - ipleiria\prog1\projeto_prog1\funcoesgenericas.h
+
+1639425314 source:d:\onedrive - ipleiria\prog1\projeto_prog1\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1640616817 source:d:\onedrive - ipleiria\prog1\projeto_prog1\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+
+1640616805 d:\onedrive - ipleiria\prog1\projeto_prog1\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1640620407 d:\onedrive - ipleiria\prog1\projeto_prog1\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1640620879 source:d:\onedrive - ipleiria\prog1\projeto_prog1\testesdiagnostico.c
+	<stdio.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
+1641578117 source:c:\users\bruno\onedrive - ipleiria\projeto_prog1\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+
+1641577655 c:\users\bruno\onedrive - ipleiria\projeto_prog1\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1641477356 c:\users\bruno\onedrive - ipleiria\projeto_prog1\funcoesgenericas.h
+
+1641479026 source:c:\users\bruno\onedrive - ipleiria\projeto_prog1\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1641568064 source:c:\users\bruno\onedrive - ipleiria\projeto_prog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1641578310 c:\users\bruno\onedrive - ipleiria\projeto_prog1\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1641578170 source:c:\users\bruno\onedrive - ipleiria\projeto_prog1\testesdiagnostico.c
+	<stdio.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
+1641578117 source:d:\onedrive - ipleiria\estg - ipl - ei\prog1\projeto_prog1\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+
+1641577655 d:\onedrive - ipleiria\estg - ipl - ei\prog1\projeto_prog1\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1641477356 d:\onedrive - ipleiria\estg - ipl - ei\prog1\projeto_prog1\funcoesgenericas.h
+
+1641980900 source:d:\onedrive - ipleiria\estg - ipl - ei\prog1\projeto_prog1\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1641476591 source:d:\onedrive - ipleiria\estg - ipl - ei\prog1\projeto_prog1\testesdiagnostico.c
+	<stdio.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
+1641578310 d:\onedrive - ipleiria\estg - ipl - ei\prog1\projeto_prog1\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1641980902 source:d:\onedrive - ipleiria\estg - ipl - ei\prog1\projeto_prog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1641478959 source:d:\onedrive - ipleiria\estg - ipl - ei\projeto_prog1_um_vetor\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+
+1641478817 d:\onedrive - ipleiria\estg - ipl - ei\projeto_prog1_um_vetor\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1641477356 d:\onedrive - ipleiria\estg - ipl - ei\projeto_prog1_um_vetor\funcoesgenericas.h
+
+1641479026 source:d:\onedrive - ipleiria\estg - ipl - ei\projeto_prog1_um_vetor\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1641565674 source:d:\onedrive - ipleiria\estg - ipl - ei\projeto_prog1_um_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1641566193 d:\onedrive - ipleiria\estg - ipl - ei\projeto_prog1_um_vetor\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1641984719 source:c:\users\bruno\onedrive\ambiente de trabalho\p1\projeto_prog1\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+
+1641984719 c:\users\bruno\onedrive\ambiente de trabalho\p1\projeto_prog1\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1641987837 c:\users\bruno\onedrive\ambiente de trabalho\p1\projeto_prog1\funcoesgenericas.h
+
+1641988125 source:c:\users\bruno\onedrive\ambiente de trabalho\p1\projeto_prog1\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1641987978 source:c:\users\bruno\onedrive\ambiente de trabalho\p1\projeto_prog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1641984656 c:\users\bruno\onedrive\ambiente de trabalho\p1\projeto_prog1\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1642259913 source:c:\users\bruno\onedrive\ambiente de trabalho\p1\projeto_prog1\testesdiagnostico.c
+	<stdio.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
+1641984719 source:c:\users\user\downloads\projeto_prog2\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+
+1641984719 c:\users\user\downloads\projeto_prog2\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1641987837 c:\users\user\downloads\projeto_prog2\funcoesgenericas.h
+
+1641988125 source:c:\users\user\downloads\projeto_prog2\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1642331543 source:c:\users\user\downloads\projeto_prog2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642331399 c:\users\user\downloads\projeto_prog2\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1642331395 source:c:\users\user\downloads\projeto_prog2\testesdiagnostico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
+1642440298 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto_prog2\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642334138 c:\users\bruno\onedrive\ambiente de trabalho\projeto_prog2\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1641987838 c:\users\bruno\onedrive\ambiente de trabalho\projeto_prog2\funcoesgenericas.h
+
+1642438057 c:\users\bruno\onedrive\ambiente de trabalho\projeto_prog2\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1641988126 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto_prog2\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1642440402 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto_prog2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642441766 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto_prog2\testesdiagnostico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
+1642440298 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto quase final\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642334138 c:\users\bruno\onedrive\ambiente de trabalho\projeto quase final\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1641987838 c:\users\bruno\onedrive\ambiente de trabalho\projeto quase final\funcoesgenericas.h
+
+1642438057 c:\users\bruno\onedrive\ambiente de trabalho\projeto quase final\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1641988126 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto quase final\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1642440402 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto quase final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642449464 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto quase final\testesdiagnostico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
+1642523308 source:c:\users\user\downloads\projeto_progv3\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642523198 c:\users\user\downloads\projeto_progv3\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1641987838 c:\users\user\downloads\projeto_progv3\funcoesgenericas.h
+
+1642522112 c:\users\user\downloads\projeto_progv3\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1641988126 source:c:\users\user\downloads\projeto_progv3\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1642525457 source:c:\users\user\downloads\projeto_progv3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642522903 source:c:\users\user\downloads\projeto_progv3\testesdiagnostico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
+1642615706 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto_progv3\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642615709 c:\users\bruno\onedrive\ambiente de trabalho\projeto_progv3\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1642615697 c:\users\bruno\onedrive\ambiente de trabalho\projeto_progv3\funcoesgenericas.h
+
+1642615721 c:\users\bruno\onedrive\ambiente de trabalho\projeto_progv3\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1642603667 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto_progv3\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1642615678 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto_progv3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642615717 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto_progv3\testesdiagnostico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
+1642616604 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto - bruno ferreira ; pedro vicente\projeto\comunidadeacademica.c
+	<stdio.h>
+	<string.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642616468 c:\users\bruno\onedrive\ambiente de trabalho\projeto - bruno ferreira ; pedro vicente\projeto\comunidadeacademica.h
+	"funcoesGenericas.h"
+
+1642615697 c:\users\bruno\onedrive\ambiente de trabalho\projeto - bruno ferreira ; pedro vicente\projeto\funcoesgenericas.h
+
+1642615721 c:\users\bruno\onedrive\ambiente de trabalho\projeto - bruno ferreira ; pedro vicente\projeto\testesdiagnostico.h
+	"funcoesGenericas.h"
+	"comunidadeAcademica.h"
+
+1642616486 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto - bruno ferreira ; pedro vicente\projeto\funcoesgenericas.c
+	"funcoesGenericas.h"
+	<stdio.h>
+	<string.h>
+
+1642616658 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto - bruno ferreira ; pedro vicente\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comunidadeAcademica.h"
+	"testesDiagnostico.h"
+
+1642616467 source:c:\users\bruno\onedrive\ambiente de trabalho\projeto - bruno ferreira ; pedro vicente\projeto\testesdiagnostico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesGenericas.h"
+	"testesDiagnostico.h"
+
